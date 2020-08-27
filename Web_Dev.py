@@ -1,3 +1,4 @@
+#Transmitting all data to firebase
 from clarifai import rest
 from clarifai.rest import ClarifaiApp
 import clarifai
